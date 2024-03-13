@@ -1,0 +1,325 @@
+MaterialsGuids:
+- 5050a65e412146e3989d36aafc5ecdd7
+Meshes:
+- Name: Cube_Cube_0
+  Material: 5050a65e412146e3989d36aafc5ecdd7
+  Vertices:
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      y: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      y: -1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      y: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      x: 1
+    Texture:
+      x: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      x: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      x: 1
+    Texture:
+      y: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      y: 1
+    Texture:
+      x: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      y: 1
+    Texture:
+      y: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      x: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      x: -1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      x: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      z: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      z: -1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      z: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      z: 1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      z: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      z: 1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      y: -1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      y: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      y: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      x: 1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      x: 1
+    Texture:
+      x: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      x: 1
+    Texture:
+      y: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      y: 1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      y: 1
+    Texture:
+      x: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      y: 1
+    Texture:
+      y: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      x: -1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      x: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      x: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      z: -1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: -0.5
+    Normal:
+      z: -1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: -0.5
+      z: -0.5
+    Normal:
+      z: -1
+    Texture:
+      y: 1
+  - Position:
+      x: 0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      z: 1
+    Texture:
+      x: 1
+      y: 1
+  - Position:
+      x: 0.5
+      y: -0.5
+      z: 0.5
+    Normal:
+      z: 1
+    Texture:
+      x: 1
+  - Position:
+      x: -0.5
+      y: 0.5
+      z: 0.5
+    Normal:
+      z: 1
+    Texture:
+      y: 1
+  Indices:
+  - 2
+  - 1
+  - 0
+  - 5
+  - 4
+  - 3
+  - 8
+  - 7
+  - 6
+  - 11
+  - 10
+  - 9
+  - 14
+  - 13
+  - 12
+  - 17
+  - 16
+  - 15
+  - 20
+  - 19
+  - 18
+  - 23
+  - 22
+  - 21
+  - 26
+  - 25
+  - 24
+  - 29
+  - 28
+  - 27
+  - 32
+  - 31
+  - 30
+  - 35
+  - 34
+  - 33

@@ -1,0 +1,159 @@
+version: 4
+pathToGuidsMap:
+  BaseAssets\Shaders\depth_only.fsh:
+  - bfb06b7103e849d0a04a5ea952dd9418
+  BaseAssets\Shaders\depth_only.vsh:
+  - 2be6af8d125c4cab9354c9a65cb08937
+  BaseAssets\Shaders\pbr_lighting.fsh:
+  - 059710efb9ae48dc93b6180b5b8367fa
+  BaseAssets\Shaders\pbr_lighting.vsh:
+  - a3f7c3ec903e473893242a53579b6686
+  BaseAssets\Shaders\screen_quad.vsh:
+  - 028f0657308a4e8d83e041bdd759f45b
+  BaseAssets\Shaders\tex_to_screen.fsh:
+  - be09b62b4f9b4799b67af80f7696df77
+  BaseAssets\Shaders\Bloom\bloom_downsample_box.fsh:
+  - 1197ee4aec3d449ea6c25b2b1273b7f7
+  BaseAssets\Shaders\Bloom\bloom_prefilter.fsh:
+  - c19fd189552d4c7bae0e0b1ba2010739
+  BaseAssets\Shaders\Bloom\bloom_upsample_box.fsh:
+  - 614a0ee70fa044ccbd024fa9b930e8e6
+  BaseAssets\Shaders\DeferredRender\deferred_gamma_correction.fsh:
+  - 53d18af2249044cba75ccca5171be288
+  BaseAssets\Shaders\DeferredRender\deferred_geometry.fsh:
+  - 09fd70672600474fb3dbce30f49dae08
+  BaseAssets\Shaders\DeferredRender\deferred_geometry.vsh:
+  - 8072859351ae48dab508bd9307671111
+  BaseAssets\Shaders\DeferredRender\deferred_geometry_particles.fsh:
+  - 8fe6c39a8dbb4314a68c025c8ac8aa2f
+  BaseAssets\Shaders\DeferredRender\deferred_geometry_particles.gsh:
+  - ddad16e510714e9bbff6a3d773506541
+  BaseAssets\Shaders\DeferredRender\deferred_geometry_particles.vsh:
+  - 2fb5552a729946758ff1e6fc94f72308
+  BaseAssets\Shaders\DeferredRender\deferred_geometry_skinned.vsh:
+  - 701946afea7840aa904ac02d001a223d
+  BaseAssets\Shaders\DeferredRender\deferred_light_directional.fsh:
+  - e24973298e4848deaa00e4f3078bfbb0
+  BaseAssets\Shaders\DeferredRender\deferred_light_point.fsh:
+  - b8dc253bcb46415190ded3f966bfea1e
+  BaseAssets\Shaders\DeferredRender\deffered_addLight.fsh:
+  - 50650a30e31b47cab65541a177e40c39
+  BaseAssets\Shaders\Particles\particles_bitonic_sort_step.csh:
+  - 6440c4f05945487c8dfffa69409e4232
+  BaseAssets\Shaders\Particles\particles_emit_point.csh:
+  - 1037cc4096f2468ea9a83bd2dee45cff
+  BaseAssets\Shaders\Particles\particles_emit_sphere.csh:
+  - 778f5bb7763245c0b5d4757daa959cfb
+  BaseAssets\Shaders\Particles\particles_force_constant.csh:
+  - c99931ed19f84c67af32a851465e95cb
+  BaseAssets\Shaders\Particles\particles_force_point.csh:
+  - 25421263dd26426ba5e22d304adf2f69
+  BaseAssets\Shaders\Particles\particles_init.csh:
+  - 00bfd910e3774f99a366251dd59c4865
+  BaseAssets\Shaders\Particles\particles_update_energy.csh:
+  - c5633b47f9af492d9e9743f454e90d3b
+  BaseAssets\Shaders\Particles\particles_update_physics.csh:
+  - 9fab2f6b2c0c44cc9b58867e7ffddafe
+  BaseAssets\Shaders\VolumetricRender\volume.fsh:
+  - a99d60d9be204b19bfbcca3cbf380b2f
+  BaseAssets\Shaders\VolumetricRender\volume.vsh:
+  - 47faf1dc0f3543569557709aae277802
+  Scenes\Main.scene:
+  - 7612c02edfb542bf8bc5c2ad30564a32
+  Models\cube.obj:
+  - 5050a65e412146e3989d36aafc5ecdd7
+  - 65365b75d2f443d9945a1bb4f6fd8141
+  Scripts\Gameplay.cs:
+  - d7231632278b47d7879ee91fee442a54
+  Textures\M_Player.mat:
+  - 5fd2f40e8cac417ea0514c4e9910d6eb
+  Textures\M_Ground.mat:
+  - 4e6a4944cd94470fb382e30dad6833a7
+  Models\grass_low.fbx:
+  - eeab675295a740e8bafc74460e0ceaff
+  - b57638d40ec54ab3b3af62c543fdace8
+  Textures\M_Hat.mat:
+  - 690cdb0937734740a266b7ca55e41d90
+  Models\low_fence.fbx:
+  - 959e304be2a0413ba028235ce9ed1969
+  - 1cfdf5b71d0c460e805b2e461141260a
+  - b01ed70468ea4218a6cf22930f3eb719
+  Models\low_gate.fbx:
+  - 386b9d59364e41d9bd9b26cc98b4b990
+  - 356cdc052e9a4685b4a62aaff443ca15
+  - 01058ddfc1404d22835dceaac286f8dc
+  - a15e42d94c3c44e0b60f9889d0ac84ea
+  - 3ddd591a912b46a4a3904ba1e9fa76d1
+  - eb11d7dec9654f8bbe7a7ac45d79e34a
+  - f7bfda40c78f4719acb50a2f64a5b1fd
+  Textures\M_Fence.mat:
+  - 9ae8bf4e43a2436cae220698725dc5e8
+  Models\low_low_cow.fbx:
+  - cfa802e306ec4b5698d0821b1f428115
+  - a0438460a07d4faa8096bb6e3eec754c
+  - 7f03c8d4b769449f9c685d88000eb1f9
+  Textures\M_Grass.mat:
+  - 26b44230638f4038af8965ce9a3723d3
+  Scripts\CowController.cs:
+  - 51547789cf814efaa9e6a5a93bb860bf
+  Scripts\MainUI.xaml.cs:
+  - 507571f03c7942dbbe3f39932bf05fd4
+  Textures\cow.png:
+  - d33abfe9b09e4f168413e1753fd27e1c
+guidToDataTypeMap:
+  bfb06b7103e849d0a04a5ea952dd9418: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  2be6af8d125c4cab9354c9a65cb08937: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  059710efb9ae48dc93b6180b5b8367fa: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  a3f7c3ec903e473893242a53579b6686: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  028f0657308a4e8d83e041bdd759f45b: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  be09b62b4f9b4799b67af80f7696df77: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  1197ee4aec3d449ea6c25b2b1273b7f7: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  c19fd189552d4c7bae0e0b1ba2010739: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  614a0ee70fa044ccbd024fa9b930e8e6: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  53d18af2249044cba75ccca5171be288: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  09fd70672600474fb3dbce30f49dae08: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  8072859351ae48dab508bd9307671111: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  8fe6c39a8dbb4314a68c025c8ac8aa2f: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  ddad16e510714e9bbff6a3d773506541: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  2fb5552a729946758ff1e6fc94f72308: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  701946afea7840aa904ac02d001a223d: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  e24973298e4848deaa00e4f3078bfbb0: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  b8dc253bcb46415190ded3f966bfea1e: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  50650a30e31b47cab65541a177e40c39: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  6440c4f05945487c8dfffa69409e4232: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  1037cc4096f2468ea9a83bd2dee45cff: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  778f5bb7763245c0b5d4757daa959cfb: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  c99931ed19f84c67af32a851465e95cb: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  25421263dd26426ba5e22d304adf2f69: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  00bfd910e3774f99a366251dd59c4865: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  c5633b47f9af492d9e9743f454e90d3b: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  9fab2f6b2c0c44cc9b58867e7ffddafe: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  a99d60d9be204b19bfbcca3cbf380b2f: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  47faf1dc0f3543569557709aae277802: Engine.AssetsData.ShaderData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  7612c02edfb542bf8bc5c2ad30564a32: Engine.AssetsData.SceneData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  5050a65e412146e3989d36aafc5ecdd7: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  65365b75d2f443d9945a1bb4f6fd8141: Engine.AssetsData.ModelData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  d7231632278b47d7879ee91fee442a54: Engine.AssetsData.ScriptData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  5fd2f40e8cac417ea0514c4e9910d6eb: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  4e6a4944cd94470fb382e30dad6833a7: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  26b44230638f4038af8965ce9a3723d3: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  b57638d40ec54ab3b3af62c543fdace8: Engine.AssetsData.ModelData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  eeab675295a740e8bafc74460e0ceaff: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  959e304be2a0413ba028235ce9ed1969: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  1cfdf5b71d0c460e805b2e461141260a: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  b01ed70468ea4218a6cf22930f3eb719: Engine.AssetsData.ModelData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  386b9d59364e41d9bd9b26cc98b4b990: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  356cdc052e9a4685b4a62aaff443ca15: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  01058ddfc1404d22835dceaac286f8dc: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  a15e42d94c3c44e0b60f9889d0ac84ea: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  3ddd591a912b46a4a3904ba1e9fa76d1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  eb11d7dec9654f8bbe7a7ac45d79e34a: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  f7bfda40c78f4719acb50a2f64a5b1fd: Engine.AssetsData.ModelData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  9ae8bf4e43a2436cae220698725dc5e8: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  690cdb0937734740a266b7ca55e41d90: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  a0438460a07d4faa8096bb6e3eec754c: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  cfa802e306ec4b5698d0821b1f428115: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  7f03c8d4b769449f9c685d88000eb1f9: Engine.AssetsData.ModelData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  51547789cf814efaa9e6a5a93bb860bf: Engine.AssetsData.ScriptData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  507571f03c7942dbbe3f39932bf05fd4: Engine.AssetsData.ScriptData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  d33abfe9b09e4f168413e1753fd27e1c: Engine.AssetsData.TextureData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null

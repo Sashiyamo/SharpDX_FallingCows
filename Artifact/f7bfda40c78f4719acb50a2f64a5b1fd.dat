@@ -1,0 +1,2052 @@
+MaterialsGuids:
+- 386b9d59364e41d9bd9b26cc98b4b990
+- 356cdc052e9a4685b4a62aaff443ca15
+- 01058ddfc1404d22835dceaac286f8dc
+- a15e42d94c3c44e0b60f9889d0ac84ea
+- 3ddd591a912b46a4a3904ba1e9fa76d1
+- eb11d7dec9654f8bbe7a7ac45d79e34a
+Meshes:
+- Name: Cube.001_Cube.001_0
+  Material: 386b9d59364e41d9bd9b26cc98b4b990
+  Vertices:
+  - Position:
+      x: 1
+      y: 1
+      z: -1
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -1
+      y: 1
+      z: -1
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -1
+      y: -1
+      z: -1
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 1
+      y: -1
+      z: -1
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 1
+      y: -1
+      z: 1
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 1
+      y: -1
+      z: -1
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -1
+      y: -1
+      z: -1
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -1
+      y: -1
+      z: 1
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -1
+      y: -1
+      z: 1
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -1
+      y: -1
+      z: -1
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -1
+      y: 1
+      z: -1
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -1
+      y: 1
+      z: 1
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -1
+      y: 1
+      z: 1
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 1
+      y: 1
+      z: 1
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 1
+      y: -1
+      z: 1
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -1
+      y: -1
+      z: 1
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 1
+      y: 1
+      z: 1
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 1
+      y: 1
+      z: -1
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 1
+      y: -1
+      z: -1
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 1
+      y: -1
+      z: 1
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -1
+      y: 1
+      z: 1
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -1
+      y: 1
+      z: -1
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 1
+      y: 1
+      z: -1
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 1
+      y: 1
+      z: 1
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: -0.99999994
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.99999994
+      y: -18.787628
+      z: 0.99999994
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: -0.99999994
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.99999994
+      y: -16.787628
+      z: 0.99999994
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      z: -1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      z: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      z: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      z: 1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: -0.65110564
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -16.329151
+      z: 0.65110564
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: -0.65110564
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -9.113132
+      z: 0.65110564
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
+  - 27
+  - 26
+  - 25
+  - 27
+  - 25
+  - 24
+  - 31
+  - 30
+  - 29
+  - 31
+  - 29
+  - 28
+  - 35
+  - 34
+  - 33
+  - 35
+  - 33
+  - 32
+  - 39
+  - 38
+  - 37
+  - 39
+  - 37
+  - 36
+  - 43
+  - 42
+  - 41
+  - 43
+  - 41
+  - 40
+  - 47
+  - 46
+  - 45
+  - 47
+  - 45
+  - 44
+  - 51
+  - 50
+  - 49
+  - 51
+  - 49
+  - 48
+  - 55
+  - 54
+  - 53
+  - 55
+  - 53
+  - 52
+  - 59
+  - 58
+  - 57
+  - 59
+  - 57
+  - 56
+  - 63
+  - 62
+  - 61
+  - 63
+  - 61
+  - 60
+  - 67
+  - 66
+  - 65
+  - 67
+  - 65
+  - 64
+  - 71
+  - 70
+  - 69
+  - 71
+  - 69
+  - 68
+- Name: Cube.001_Cube.001_1
+  Material: 356cdc052e9a4685b4a62aaff443ca15
+  Vertices:
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.49548453
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: -0.19453579
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.49548453
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: -0.19453579
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
+- Name: Cube.001_Cube.001_2
+  Material: 01058ddfc1404d22835dceaac286f8dc
+  Vertices:
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.15085244
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -16.240227
+      z: 0.45180118
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.15085244
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -16.802834
+      z: 0.45180118
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
+- Name: Cube.001_Cube.001_3
+  Material: a15e42d94c3c44e0b60f9889d0ac84ea
+  Vertices:
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.15085244
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: 0.45180118
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.15085244
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: 0.45180118
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
+- Name: Cube.001_Cube.001_4
+  Material: 3ddd591a912b46a4a3904ba1e9fa76d1
+  Vertices:
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      z: 1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      y: -1
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      y: -1
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      x: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      x: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      z: -1
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.49548453
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.5242465
+      y: -0.93143916
+      z: -0.19453579
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.49548453
+    Normal:
+      y: 1
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.5242465
+      y: -1.4940474
+      z: -0.19453579
+    Normal:
+      y: 1
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
+- Name: Cube.001_Cube.001_5
+  Material: eb11d7dec9654f8bbe7a7ac45d79e34a
+  Vertices:
+  - Position:
+      x: 0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      y: -0.02164831
+      z: -0.9997656
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: -0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      y: -0.02164831
+      z: -0.9997656
+    Texture:
+      x: 0.875
+      y: 0.5
+  - Position:
+      x: -0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      y: -0.02164831
+      z: -0.9997656
+    Texture:
+      x: 0.875
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      y: -0.02164831
+      z: -0.9997656
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      y: -0.8590137
+      z: 0.51195276
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      y: -0.8590137
+      z: 0.51195276
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      y: -0.8590137
+      z: 0.51195276
+    Texture:
+      x: 0.625
+  - Position:
+      x: -0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      y: -0.8590137
+      z: 0.51195276
+    Texture:
+      x: 0.375
+  - Position:
+      x: -0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 1
+  - Position:
+      x: -0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 1
+  - Position:
+      x: -0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      x: -1
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      x: -1
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      y: 0.02164831
+      z: 0.9997656
+    Texture:
+      x: 0.125
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      y: 0.02164831
+      z: 0.9997656
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      y: 0.02164831
+      z: 0.9997656
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      y: 0.02164831
+      z: 0.9997656
+    Texture:
+      x: 0.125
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      x: 1
+      y: -3.1715457E-09
+    Texture:
+      x: 0.375
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      x: 1
+      y: -3.1715457E-09
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -9.132593
+      z: -0.5693183
+    Normal:
+      x: 1
+      y: -3.1715457E-09
+    Texture:
+      x: 0.625
+      y: 0.25
+  - Position:
+      x: 0.3747209
+      y: -8.3614645
+      z: 0.724571
+    Normal:
+      x: 1
+      y: -3.1715457E-09
+    Texture:
+      x: 0.375
+      y: 0.25
+  - Position:
+      x: -0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      y: 0.8590135
+      z: -0.5119529
+    Texture:
+      x: 0.375
+      y: 0.75
+  - Position:
+      x: -0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      y: 0.8590135
+      z: -0.5119529
+    Texture:
+      x: 0.625
+      y: 0.75
+  - Position:
+      x: 0.3747209
+      y: -1.9626896
+      z: -0.724571
+    Normal:
+      y: 0.8590135
+      z: -0.5119529
+    Texture:
+      x: 0.625
+      y: 0.5
+  - Position:
+      x: 0.3747209
+      y: -1.1915605
+      z: 0.5693183
+    Normal:
+      y: 0.8590135
+      z: -0.5119529
+    Texture:
+      x: 0.375
+      y: 0.5
+  Indices:
+  - 3
+  - 2
+  - 1
+  - 3
+  - 1
+  - 0
+  - 7
+  - 6
+  - 5
+  - 7
+  - 5
+  - 4
+  - 11
+  - 10
+  - 9
+  - 11
+  - 9
+  - 8
+  - 15
+  - 14
+  - 13
+  - 15
+  - 13
+  - 12
+  - 19
+  - 18
+  - 17
+  - 19
+  - 17
+  - 16
+  - 23
+  - 22
+  - 21
+  - 23
+  - 21
+  - 20
