@@ -21,6 +21,7 @@ namespace Test.Content.Scripts
         int cows = 1;
         double spawn_time = 4.0;
         private MainUI main_ui = null;
+        private GameObject cow_god = null;
 
         public override void Start()
         {
@@ -51,7 +52,7 @@ namespace Test.Content.Scripts
             if (other.GameObject.Name == "Player")
             {
                 Logger.Log(LogType.Info, $"cow death");
-                lived_cows = 0;
+                cow_god.GetComponent<CowController>().lived_cows = 0;
 
                 GraphicsCore.ViewportPanel.Dispatcher.Invoke(() =>
                 {
@@ -122,6 +123,7 @@ namespace Test.Content.Scripts
                     new_cow.Transform.Rotation = new Quaternion(random.NextDouble(), random.NextDouble(), random.NextDouble(), random.NextDouble());
 
                     new_cow.GetComponent<CowController>().main_ui = GameObject.GetComponent<CowController>().GetUI();
+                    new_cow.GetComponent<CowController>().cow_god = GameObject;
                 }
                 
 
