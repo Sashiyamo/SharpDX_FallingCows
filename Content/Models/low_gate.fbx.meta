@@ -1,0 +1,29 @@
+ImporterVersion: 3
+Guid: f7bfda40c78f4719acb50a2f64a5b1fd
+SubAssets:
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material
+  : 386b9d59364e41d9bd9b26cc98b4b990
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material.002
+  : 356cdc052e9a4685b4a62aaff443ca15
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material.003
+  : 01058ddfc1404d22835dceaac286f8dc
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material.004
+  : a15e42d94c3c44e0b60f9889d0ac84ea
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material.005
+  : 3ddd591a912b46a4a3904ba1e9fa76d1
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: Material.006
+  : eb11d7dec9654f8bbe7a7ac45d79e34a
+ImportSettings: !ModelImportSettings
+  MeshMaterialsOverride:
+    Cube.001_Cube.001_0: 386b9d59364e41d9bd9b26cc98b4b990
+    Cube.001_Cube.001_1: 356cdc052e9a4685b4a62aaff443ca15
+    Cube.001_Cube.001_2: 01058ddfc1404d22835dceaac286f8dc
+    Cube.001_Cube.001_3: a15e42d94c3c44e0b60f9889d0ac84ea
+    Cube.001_Cube.001_4: 3ddd591a912b46a4a3904ba1e9fa76d1
+    Cube.001_Cube.001_5: eb11d7dec9654f8bbe7a7ac45d79e34a

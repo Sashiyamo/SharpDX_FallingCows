@@ -1,0 +1,13 @@
+ImporterVersion: 3
+Guid: 7f03c8d4b769449f9c685d88000eb1f9
+SubAssets:
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: cow
+  : cfa802e306ec4b5698d0821b1f428115
+  ? Item1: Engine.AssetsData.MaterialData, Engine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    Item2: points.001
+  : a0438460a07d4faa8096bb6e3eec754c
+ImportSettings: !ModelImportSettings
+  MeshMaterialsOverride:
+    Cube.009_Cube.027_0: cfa802e306ec4b5698d0821b1f428115
+    Cube.009_Cube.027_1: a0438460a07d4faa8096bb6e3eec754c
